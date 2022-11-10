@@ -1,5 +1,5 @@
 ---
-# My first website
+title: My first website
 ---
 my content!
 
