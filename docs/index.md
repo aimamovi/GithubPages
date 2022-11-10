@@ -6,4 +6,4 @@ my content!
 
 {% for element in site.data.students %}
 -{{element.firstname}} {{element.lastname}}, {{element.class}}
-{% endfor%}
+{% endfor %}
