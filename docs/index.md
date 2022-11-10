@@ -3,7 +3,7 @@ title: My first website
 ---
 my content!
 
-[Erfahren Sie mehr über mich](about_me.md)
+[Erfahren Sie mehr über mich](about_me.md) <br />
 [Meine Kontaktdaten](my_contacts.md)
 
 
