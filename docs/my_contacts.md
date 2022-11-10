@@ -2,6 +2,6 @@
 title: My contacts
 ---
 
-maxmustermann@gmail.com
-+43 6702398408
-mustermannstr. 7 4400
+Mail: maxmustermann@gmail.com <br />
+Phone number: +43 6702398408 <br />
+Address: mustermannstr. 7, 4400 
