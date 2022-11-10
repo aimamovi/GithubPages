@@ -1,4 +1,4 @@
-# Aldin Imamovic
-
-## Über mich
-....
++---
++title: “Aldin Imamovic”
++---
+...
